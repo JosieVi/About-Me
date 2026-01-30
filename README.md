@@ -6,13 +6,13 @@
 
 Middle QA Engineer (3 Years of Experience), specializing in functional testing of Web Applications, APIs, and cross-system data exchange. 
 
-Areas of Expertise: 
-•	Expertise in the end-to-end testing of payment systems (issuance/repayment), including integration diagnostics via RTDS and data flow validation via Apache Kafka. 
-•	Proactive collaboration with analysts during the requirements review stage. 
-•	Postman proficiency (scripting for API testing optimization and test data preparation). 
-•	Independently developed a learning framework on Playwright + TypeScript with a modular architecture to master scalable test automation principles.
-•	Development of custom tools for automated financial calculation verification. 
-•	Team knowledge transfer; conducting new functionality demonstrations for stakeholders. 
+### Areas of Expertise:
+- Expertise in the end-to-end testing of payment systems (issuance/repayment), including integration diagnostics via RTDS and data flow validation via Apache Kafka.
+- Proactive collaboration with analysts during the requirements review stage.
+- Postman proficiency (scripting for API testing optimization and test data preparation).
+- Independently developed a learning framework on Playwright + TypeScript with a modular architecture to master scalable test automation principles.
+- Development of custom tools for automated financial calculation verification.
+- Team knowledge transfer; conducting new functionality demonstrations for stakeholders.
 
 ---
 
