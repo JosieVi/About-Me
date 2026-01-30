@@ -4,13 +4,15 @@
 
 ## 👩‍💻 About Me
 
-QA engineer with 2 years of hands-on experience in manual functional testing of web applications and APIs.  
-I create clear and informative test documentation and have experience testing a wide range of tasks:  
-from user interfaces for end clients to internal systems, including corporate solutions.  
+Middle QA Engineer (3 Years of Experience), specializing in functional testing of Web Applications, APIs, and cross-system data exchange. 
 
-I successfully work on projects with limited documentation by actively collaborating with teams and quickly gathering information.  
-
-In a training project, I developed a test framework using JavaScript/TypeScript and Playwright, focusing on architecture, scalability, and practical application.
+Areas of Expertise: 
+•	Expertise in the end-to-end testing of payment systems (issuance/repayment), including integration diagnostics via RTDS and data flow validation via Apache Kafka. 
+•	Proactive collaboration with analysts during the requirements review stage. 
+•	Postman proficiency (scripting for API testing optimization and test data preparation). 
+•	Independently developed a learning framework on Playwright + TypeScript with a modular architecture to master scalable test automation principles.
+•	Development of custom tools for automated financial calculation verification. 
+•	Team knowledge transfer; conducting new functionality demonstrations for stakeholders. 
 
 ---
 
@@ -48,6 +50,8 @@ In a training project, I developed a test framework using JavaScript/TypeScript 
 
 | 📌 Project                  | Description                                                      | 🔗 Link                                         |
 |----------------------------|-----------------------------------------------------------------|------------------------------------------------|
+| Subscription Pricing Calculator | An interactive tool for automated subscription cost calculation based on data from external Excel files (QA Automation Tool) | [View](https://github.com/JosieVi/subscription-cost-calculator) |
+| Yoga Scheduler Bot          | Telegram bot for automating the scheduling of group yoga sessions across different time zones | [View](https://github.com/JosieVi/yoga-scheduler-bot) |
 | Final Training Project      | Test framework with Playwright and TypeScript (AQA Course)      | [View](https://github.com/JosieVi/aqa-pw-final-project) |
 | Playwright Homework         | Practice assignments using Playwright (AQA Course)              | [View](https://github.com/JosieVi/aqa-ts-playwright) |
 | TypeScript Homework         | Assignments on TypeScript (AQA Course)                           | [View](https://github.com/JosieVi/aqa-ts-homework) |
